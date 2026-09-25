@@ -1,0 +1,13 @@
+{
+  "name": "Kitty",
+  "short_name": "Kitty",
+  "description": "Your household budget, forecast and anything needing a decision.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FBF8F3",
+  "theme_color": "#15224A",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
